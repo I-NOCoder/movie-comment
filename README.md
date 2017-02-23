@@ -3,11 +3,7 @@
 抓取豆瓣电影最高精彩评论
 注：本项目只用于交流技术，请勿用于商业用途。
 
-预览：
-![image](https://github.com/I-NOCoder/movie-comment/tree/master/preview-imgs/1.png)
-![image](https://github.com/I-NOCoder/movie-comment/tree/master/preview-imgs/2.png)
-![image](https://github.com/I-NOCoder/movie-comment/tree/master/preview-imgs/3.png)
-![image](https://github.com/I-NOCoder/movie-comment/tree/master/preview-imgs/4.png)
+预览：见 preview-imgs 文件夹
 
 ### 使用技术
 

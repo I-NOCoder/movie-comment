@@ -4,10 +4,10 @@
 注：本项目只用于交流技术，请勿用于商业用途。
 
 预览：
-![image](https://github.com/I-NOCoder/movie-comment/preview-imgs/1.png)
-![image](https://github.com/I-NOCoder/movie-comment/preview-imgs/2.png)
-![image](https://github.com/I-NOCoder/movie-comment/preview-imgs/3.png)
-![image](https://github.com/I-NOCoder/movie-comment/preview-imgs/4.png)
+![image](https://github.com/I-NOCoder/movie-comment/tree/master/preview-imgs/1.png)
+![image](https://github.com/I-NOCoder/movie-comment/tree/master/preview-imgs/2.png)
+![image](https://github.com/I-NOCoder/movie-comment/tree/master/preview-imgs/3.png)
+![image](https://github.com/I-NOCoder/movie-comment/tree/master/preview-imgs/4.png)
 
 ### 使用技术
 

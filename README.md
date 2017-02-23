@@ -1,4 +1,4 @@
-# douban-movie-commentbox
+# movie-comment
 
 抓取豆瓣电影最高精彩评论
 注：本项目只用于交流技术，请勿用于商业用途。
@@ -16,9 +16,9 @@
 #### 虚拟环境和安装应用依赖
 
 ```
-❯ git clone https://github.com/I-NOCoder/douban-movie-commentbox
-❯ virtualenv创建虚拟环境，安装requestments.txt中的依赖。
-❯ 修改其中的配置(如Redis，MongoDB)
+ git clone https://github.com/I-NOCoder/movie-comment
+ virtualenv创建虚拟环境，安装requestments.txt中的依赖。
+ 修改其中的配置(如Redis，MongoDB)
 ```
 
 #### 爬虫
@@ -39,4 +39,4 @@
 目前默认后端使用8100端口，开发模式使用5000端口。
 
 
-Enjoy it!
+欢迎fork！
